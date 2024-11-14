@@ -1,0 +1,39 @@
+@import url(@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+html{  height:100%;
+    width:100%;
+}
+body{  background-color: #faf3dd;
+    color: #000;
+     font-family:"lato", sans-serif;
+     font-size: 20px;
+    }
+
+.container-header {
+    background-color: #6FC246; 
+    width: 100%;
+    height: auto;
+    padding: 10px 0; 
+    display: flex;
+    justify-content: center;
+}
+
+.container-header h1 { 
+    background-color: #;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300; 
+    margin: 0; 
+}
+/* Style the header */
+
+.header { background-color: #6FC246
+;
+  padding: 10px;
+  color:#38a3a55
+  font-size:50px
+  text-align: center;
+        }
